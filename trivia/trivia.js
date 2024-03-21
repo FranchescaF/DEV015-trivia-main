@@ -104,5 +104,5 @@ function validarResultado() {
 
 function resetTrivia() {
   // Navegamos a la página index al actualizar la ubicación actual de la página con la propiedad href
-  window.location.href = "index.html";
+  window.location.href = "../index.html";
 }
